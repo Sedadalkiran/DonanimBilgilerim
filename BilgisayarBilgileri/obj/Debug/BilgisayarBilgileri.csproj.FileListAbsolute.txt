@@ -1,0 +1,9 @@
+c:\users\dell\documents\visual studio 2017\Projects\BilgisayarBilgileri\BilgisayarBilgileri\bin\Debug\BilgisayarBilgileri.exe.config
+c:\users\dell\documents\visual studio 2017\Projects\BilgisayarBilgileri\BilgisayarBilgileri\bin\Debug\BilgisayarBilgileri.exe
+c:\users\dell\documents\visual studio 2017\Projects\BilgisayarBilgileri\BilgisayarBilgileri\bin\Debug\BilgisayarBilgileri.pdb
+c:\users\dell\documents\visual studio 2017\Projects\BilgisayarBilgileri\BilgisayarBilgileri\obj\Debug\BilgisayarBilgileri.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2017\Projects\BilgisayarBilgileri\BilgisayarBilgileri\obj\Debug\BilgisayarBilgileri.Form1.resources
+c:\users\dell\documents\visual studio 2017\Projects\BilgisayarBilgileri\BilgisayarBilgileri\obj\Debug\BilgisayarBilgileri.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2017\Projects\BilgisayarBilgileri\BilgisayarBilgileri\obj\Debug\BilgisayarBilgileri.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2017\Projects\BilgisayarBilgileri\BilgisayarBilgileri\obj\Debug\BilgisayarBilgileri.exe
+c:\users\dell\documents\visual studio 2017\Projects\BilgisayarBilgileri\BilgisayarBilgileri\obj\Debug\BilgisayarBilgileri.pdb
